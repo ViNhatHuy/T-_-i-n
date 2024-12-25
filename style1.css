@@ -14,12 +14,12 @@ html {
 }
 @font-face {
 	font-family: "HongHaHep";
-	src: url("/static/fonts/unicode.publish.UVNHongHaHep_I.TTF")
+	src: url("/unicode.publish.UVNHongHaHep_I.TTF")
 		format("truetype");
 }
 .header {
 	height: 180px;
-	background: url(/static/imgs/T.png) no-repeat center / cover;
+	background: url(/T.png) no-repeat center / cover;
 	color: white;
 	text-align: center;
 	box-sizing: border-box;
